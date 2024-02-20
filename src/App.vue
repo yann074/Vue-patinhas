@@ -13,7 +13,7 @@ import CastrationView from './views/CastrationView.vue'
 
   <AtencionView />
   <CastrationView />
-  <RouterView />
+
 </template>
 
 <style>
