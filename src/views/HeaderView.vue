@@ -8,7 +8,7 @@
             <h2><a href="">CONTATO</a></h2>   
         </div>
         <div>
-            <button>RIFA SOLIDÁRIA</button>
+            <button class="bg-red-500">RIFA SOLIDÁRIA</button>
         </div> 
         <div>
             <img :src="caminhodosEmojis" alt="Redes Sociais">
@@ -37,7 +37,7 @@ export default{
     header{
         display: flex;
         height: 120px;
-        background-color: aqua;
         justify-content: space-between  ;
     }
+
 </style>
